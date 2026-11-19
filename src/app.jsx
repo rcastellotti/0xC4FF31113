@@ -292,7 +292,7 @@ function App() {
 
   return (
     <main>
-      <h1>DB00201 - 0xc4ff31113 please</h1>
+      <h1>0xc4ff31113 please</h1>
       <p class="lede">if you are reading this send energy drinks please !!!</p>
       <Summary items={items} />
       <Shelf items={items} sel={sel} pick={pick} />
