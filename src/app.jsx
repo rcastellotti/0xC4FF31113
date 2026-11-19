@@ -303,8 +303,7 @@ function App() {
       <Collection items={items} sel={sel} pick={pick} />
       <section class="print-only contribute">
         <div class="contribute-copy">
-          <h2>Want to add a drink?</h2>
-          <p>Send a PR to the GitHub repo. Not sure wtf is github? Just write something here, I gotchu.</p>
+          <h2>Want to add a drink? send a PR</h2>
           <a class="repo-link" href="https://github.com/rcastellotti/0xC4FF3III3">https://github.com/rcastellotti/0xC4FF3III3</a>
           <a class="repo-link" href="https://rcastellotti.github.io/0xC4FF3III3">https://rcastellotti.github.io/0xC4FF3III3</a>
           <div class="write-in" aria-hidden="true"></div>
